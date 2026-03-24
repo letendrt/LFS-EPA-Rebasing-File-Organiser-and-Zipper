@@ -19,7 +19,7 @@ Code to be used by future staff - automatically structures Labour Force Survey f
 
 <kbd><img width="1296" height="465" alt="image" src="https://github.com/user-attachments/assets/9f760d5d-0cd2-409d-beeb-903b9fc1fbe1" /></kbd>
 
-3) The RELEVANT_LFS_EPA.csv file linked in this repository. This file holds a list of LFS/EPA dataset titles and DOIs likely to be rebased in the future. Note that it does not hold ALL LFS/EPA datasets, since older datasets are unlikely to be rebased again, and datasets yet to be created were not yet released at the time of the file creation (obviously).
+3) The RELEVANT_LFS_EPA.csv file linked in this repository. This file holds a list of LFS/EPA dataset titles and DOIs likely to be rebased in the future. Note that it does not hold ALL LFS/EPA datasets, since older datasets are unlikely to be rebased again, and datasets yet to be created were not yet released at the time of the file's creation (obviously).
 
 <kbd><img width="1247" height="268" alt="image" src="https://github.com/user-attachments/assets/32a92bc1-dca5-42af-9f5e-9fbcdf527c22" /></kbd>
 
