@@ -19,13 +19,14 @@ Code to be used by future staff - automatically structures Labour Force Survey f
 
 <kbd><img width="1296" height="465" alt="image" src="https://github.com/user-attachments/assets/9f760d5d-0cd2-409d-beeb-903b9fc1fbe1" /></kbd>
 
-3) Fetch the RELEVANT_LFS_EPA.csv file linked in the Rebasing manual.
+3) The RELEVANT_LFS_EPA.csv file linked in the Rebasing manual.
 
 ## User Guide 🔍🛃
 ⚠️ For successful file organisation/zipping and CSV sheet template creation, please make sure to read the steps below! ⚠️
 
 1) Create a root folder (name it what ever you want). This folder can be placed anywhere on your device.
-2) Fetch all your data files (SPSS, raw PRN, raw CSV) and dump them all in a subfolder (name it whatever you want). Make sure that this subfolder is situated in your root folder.
-3) Create a second subfolder for your documentation in your root folder. For every year that needs to be rebased, create a folder within your documentation subfolder and label it after said year (e.g., if you are rebasing the files for 2007, 2008, and 2009, create one folder for each, and label them 2007, 2008, and 2009).
-4)  
+2) Fetch all your data files (SPSS, raw PRN, raw CSV) and dump them all in a subfolder (name it whatever you want). Make sure that this subfolder is situated in your root folder. Example figure available above, under bullet point 1 of File Requirements.
+3) Create a second subfolder for your documentation in your root folder. For every year that needs to be rebased, create a folder within your documentation subfolder and label it after said year (e.g., if you are rebasing the files for 2007, 2008, and 2009, create one folder for each, and label them 2007, 2008, and 2009). Example figure available above, under bullet point 2 of File Requirements.
+4)  Fetch the RELEVANT_LFS_EPA.csv file linked in the Rebasing manual (this file is necessary for the creation of a robust rebasing CSV template - it'll save you a lot fo time).
+5)  Download the python file provided in this GitHub repository.
 
