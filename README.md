@@ -20,5 +20,7 @@ Code to be used by future staff - automatically structures Labour Force Survey f
 <kbd><img width="1296" height="465" alt="image" src="https://github.com/user-attachments/assets/9f760d5d-0cd2-409d-beeb-903b9fc1fbe1" /></kbd>
 
 ## User Guide 🔍🛃
+⚠️ For successful file organisation/zipping and CSV sheet template creation, please make sure to read the steps below! ⚠️
+
 
 
