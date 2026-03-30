@@ -24,7 +24,7 @@ Code to be used by future staff - automatically structures Labour Force Survey f
 <kbd><img width="1247" height="268" alt="image" src="https://github.com/user-attachments/assets/32a92bc1-dca5-42af-9f5e-9fbcdf527c22" /></kbd>
 
 
-## User Guide 🔍🛃
+## User Guide: Install 🖥️🛃
 ⚠️ For successful file organisation/zipping and CSV sheet template creation, please make sure to read the steps below! ⚠️
 
 1) Create a root folder (name it what ever you want). This folder can be placed anywhere on your device.
@@ -36,4 +36,9 @@ Code to be used by future staff - automatically structures Labour Force Survey f
 4)  Fetch the RELEVANT_LFS_EPA.csv file linked in this repository (this file is necessary for the creation of a robust rebasing CSV template - it'll save you a lot fo time).
 
 5)  Download the python file provided in this GitHub repository.
+
+6)  Open code in local IDE to edit parameters
+
+## User Guide: Parameters 🔍🛃
+⚠️ For successful file organisation/zipping and CSV sheet template creation, please make sure to read the steps below! ⚠️
 
