@@ -1,6 +1,7 @@
 # Autofile Organiser and Zipper
 # Developed by: Thierry Letendre 
 # On behalf of: Scholars Portal/Odesi/Borealis/MarkIt group
+# Note: Recommended to run on Windows - may require edits otherwise
 
 ################################################################################
 #------------------------------------LIBRARIES----------------------------------
@@ -36,12 +37,12 @@ last_time_rebased = 2025
 
 # Directory to documentation location
 # example: doc_folder_dir = r"C:\Users\thierry\Python Code\Autofile Organiser and Zipper\Documentation"
-# KEEP THE 'r' BEFORE THE STRING (raw format)
+# KEEP THE 'r' BEFORE THE STRING (raw format) IF RUNNING IN WINDOWS
 doc_folder_dir = r"copy\path\to\documentation\folder\here"
 
 # Directory to data files (raw CSV, SPSS, PRN)
 # Example: data_folder_dir = r"C:\Users\thierry\Python Code\Autofile Organiser and Zipper\Data_folder"
-# KEEP THE 'r' BEFORE THE STRING (raw format)
+# KEEP THE 'r' BEFORE THE STRING (raw format) IF RUNNING IN WINDOWS
 data_folder_dir = r"copy\path\to\data\folder\here"
 
 
