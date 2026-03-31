@@ -24,7 +24,7 @@ Code to be used by future staff - automatically structures Labour Force Survey f
 <kbd><img width="1247" height="268" alt="image" src="https://github.com/user-attachments/assets/32a92bc1-dca5-42af-9f5e-9fbcdf527c22" /></kbd>
 
 
-## User Guide: Install 🖥️🛃
+## User Guide: File Setup 📁🛃
 ⚠️ For successful file organisation/zipping and CSV sheet template creation, please make sure to read the steps below! ⚠️
 
 1) Create a root folder (name it what ever you want). This folder can be placed anywhere on your device.
@@ -39,6 +39,42 @@ Code to be used by future staff - automatically structures Labour Force Survey f
 
 6)  Open code in local IDE to edit parameters
 
-## User Guide: Parameters 🔍🛃
+## User Guide: Editing Parameters 🔍🛃
 ⚠️ For successful file organisation/zipping and CSV sheet template creation, please make sure to read the steps below! ⚠️
+
+1) Define the rebasing years in python list format. Here, make sure to organise the years in chronological order, from low to high. If rebasing years 2010 to 2016, you would list them as follows: [2011, 2012, 2013, 2014, 2015, 2016].
+
+ <kbd><img width="849" height="86" alt="image" src="https://github.com/user-attachments/assets/5267b9ac-943f-44fd-a7d3-f505f25a2638" /></kbd>
+
+2) Define the year of the rebasing. The last rebasing was in 2025. Here the rebasing number should be above 2025. The rebasing year will only be made clear whenever it is released. If the next rebasing is in 2028, you would input 2028 in this field.
+
+ <kbd><img width="666" height="81" alt="image" src="https://github.com/user-attachments/assets/63059837-c02a-4caf-b0e0-f854ac391451" /></kbd>
+
+3) Define the year of the previous rebasing (in this case, it is 2025). Until the next rebasing is conducted, this field will remain 2025. 
+
+<kbd><img width="642" height="100" alt="image" src="https://github.com/user-attachments/assets/06d24f4e-ef52-47c6-b6b6-0392bc907843" /></kbd>
+
+4) Define the directory of the documentation folder created in the File Setup user guide above. Path can be copied by right clicking the folder and selecting ''Copy as Path''. Once copied, paste it as the value for doc_folder_dir.
+
+<kbd><img width="847" height="463" alt="image" src="https://github.com/user-attachments/assets/18da52b7-de79-4ca0-896e-1573c352a7f2" /></kbd>
+<kbd><img width="977" height="97" alt="image" src="https://github.com/user-attachments/assets/e4de60b0-3fae-4034-9fd3-4af3e2d80e9e" /></kbd>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
