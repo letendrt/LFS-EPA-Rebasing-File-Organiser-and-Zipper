@@ -15,7 +15,7 @@ Code to be used by future staff - automatically structures Labour Force Survey f
 
 <kbd><img width="1352" height="222" alt="image" src="https://github.com/user-attachments/assets/d87ed534-17fb-427a-bd4b-34c30a3aa883" /></kbd>
 
-2)  Documentation folder in which dataset documentation are split by year (documentation, in some cases, vary year over year, as such they must be seggregated in the folder of their respective years).
+2)  Documentation folder in which dataset documentation are split by year (documentation, in some cases, vary year over year, as such they must be segregated in the folder of their respective years).
 
 <kbd><img width="1296" height="465" alt="image" src="https://github.com/user-attachments/assets/9f760d5d-0cd2-409d-beeb-903b9fc1fbe1" /></kbd>
 
