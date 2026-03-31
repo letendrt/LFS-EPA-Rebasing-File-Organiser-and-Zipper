@@ -33,7 +33,7 @@ Code to be used by future staff - automatically structures Labour Force Survey f
 
 3) Create a second subfolder for your documentation in your root folder. For every year that needs to be rebased, create a folder within your documentation subfolder and label it after said year (e.g., if you are rebasing the files for 2007, 2008, and 2009, create one folder for each, and label them 2007, 2008, and 2009). Example figure available above, under bullet point 2 of File Requirements.
 
-4)  Fetch the RELEVANT_LFS_EPA.csv file linked in this repository (this file is necessary for the creation of a robust rebasing CSV template - it'll save you a lot fo time).
+4)  Fetch the RELEVANT_LFS_EPA.csv file linked in this repository (this file is necessary for the creation of a robust rebasing CSV template - it'll save you a lot of time).
 
 5)  Download the python file provided in this GitHub repository.
 
@@ -67,7 +67,7 @@ Code to be used by future staff - automatically structures Labour Force Survey f
 
 <kbd><img width="873" height="99" alt="image" src="https://github.com/user-attachments/assets/e7911aa2-64b2-4f88-849e-cf6e0dd9ce8a" /></kbd>
 
-7) Select which functions to run. By default, the script is setup to create both the zipped architechture for Borealis upload and CSV sheet creation. The CSV sheet creation process can only be run if the proper zipped architechture already exists. On the other hand, run_zipper can be run without create_csv_sheet being set to True. Once the zipped architechture is created, users can set run_zipper to False and exclusively run create_csv_sheet. Similarly to step 6 above, simply comment out the option not being used.
+7) Select which functions to run. By default, the script is setup to create both the zipped architecture for Borealis upload and CSV sheet creation. The CSV sheet creation process can only be run if the proper zipped architecture already exists. On the other hand, run_zipper can be run without create_csv_sheet being set to True. Once the zipped architecture is created, users can set run_zipper to False and exclusively run create_csv_sheet. Similarly to step 6 above, simply comment out the option not being used.
 
 <kbd><img width="902" height="194" alt="image" src="https://github.com/user-attachments/assets/cfc84182-6d4b-4159-894b-c5a27bfff880" /></kbd>
 
