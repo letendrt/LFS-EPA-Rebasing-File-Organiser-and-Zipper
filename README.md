@@ -59,6 +59,20 @@ Code to be used by future staff - automatically structures Labour Force Survey f
 <kbd><img width="847" height="463" alt="image" src="https://github.com/user-attachments/assets/18da52b7-de79-4ca0-896e-1573c352a7f2" /></kbd>
 <kbd><img width="977" height="97" alt="image" src="https://github.com/user-attachments/assets/e4de60b0-3fae-4034-9fd3-4af3e2d80e9e" /></kbd>
 
+5) Repeat step 4 above but for the folder holding all the dataset data. Paste the copied path in data_folder_dir.
+
+<kbd><img width="971" height="96" alt="image" src="https://github.com/user-attachments/assets/a75b348f-0f11-4c3e-afe4-3e2ebb10cefb" /></kbd>
+
+6) Select the language setting for the file and CSV creation process. There are two options: French or English. To select an option, comment out the one you are not using by inserting a # symbol. Note that only ONE may be selected at a time. 
+
+<kbd><img width="873" height="99" alt="image" src="https://github.com/user-attachments/assets/e7911aa2-64b2-4f88-849e-cf6e0dd9ce8a" /></kbd>
+
+7) Select which functions to run. By default, the script is setup to create both the zipped architechture for Borealis upload and CSV sheet creation. The CSV sheet creation process can only be run if the proper zipped architechture already exists. On the other hand, run_zipper can be run without create_csv_sheet being set to True. Once the zipped architechture is created, users can set run_zipper to False and exclusively run create_csv_sheet. Similarly to step 6 above, simply comment out the option not being used.
+
+<kbd><img width="902" height="194" alt="image" src="https://github.com/user-attachments/assets/cfc84182-6d4b-4159-894b-c5a27bfff880" /></kbd>
+
+
+
 
 
 
